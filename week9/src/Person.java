@@ -40,6 +40,8 @@ public class Person
         return name;
     }
 
+
+    // main
     public static void main(String[] args) {
 
             int choice=0;
